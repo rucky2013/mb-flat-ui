@@ -1,0 +1,24 @@
+{
+  "name": "@xiaoluoboding/mb-flat-ui",
+  "version": "2.3.0",
+  "description": "local flat-ui package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infohold-works/mb-flat-ui.git"
+  },
+  "keywords": [
+    "local",
+    "flat",
+    "ui"
+  ],
+  "author": "xiaoluoboding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infohold-works/mb-flat-ui/issues"
+  },
+  "homepage": "https://github.com/infohold-works/mb-flat-ui#readme"
+}
